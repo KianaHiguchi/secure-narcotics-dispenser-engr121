@@ -1,4 +1,4 @@
-# Secure Dispensing Prototype (Raspberry Pi Pico W, MicroPython, HTML/CSS)
+# Secure Dispensing Prototype - ENGR 121
 
 An embedded systems prototype developed for ENGR 121 that automates controlled dispensing using sensor inputs and a self-hosted web interface. Built in a 3-person team. 
 
